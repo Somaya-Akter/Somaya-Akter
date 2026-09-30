@@ -1,10 +1,19 @@
-<h1 align="center">Hi 👋, I'm Somaya Akter</h1>
-<h3 align="center">CSE Student | Aspiring Web Developer</h3>
+<div align="center">
 
-<p align="center">
-  Passionate about Web Development, Programming, and building useful projects.
-</p>
+# Hi 👋, I'm Somaya Akter
 
+### CSE Student | Aspiring Web Developer
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=600&lines=Learning+React+%26+Next.js;Building+Modern+Web+Projects;Exploring+JavaScript+%26+Node.js;Always+Learning+Something+New"
+  alt="Typing SVG"
+/>
+
+<br/>
+
+Passionate about **Web Development, Programming, and building useful projects.**
+
+</div>
 ---
 
 ### 👩‍💻 About Me
