@@ -16,6 +16,7 @@ Passionate about **Web Development, Programming, and building useful projects.**
 </div>
 
 <hr>
+
 ### 👩‍💻 About Me
 
 - 🎓 CSE Student
