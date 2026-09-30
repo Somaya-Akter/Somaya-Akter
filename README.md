@@ -59,6 +59,18 @@
     alt="Somaya Akter's Most Used Languages"
     height="170"
   />
+
+  ---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Somaya-Akter&theme=github-compact&hide_border=true&area=true"
+    alt="Somaya Akter's Contribution Graph"
+  />
+</p>
+
 </p>
 
 ## 🔥 GitHub Streak
