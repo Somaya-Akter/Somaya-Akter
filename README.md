@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Somaya Akter</h1>
+<h3 align="center">CSE Student | Aspiring Web Developer</h3>
 
-<!--
-**Somaya-Akter/Somaya-Akter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about Web Development, Programming, and building useful projects.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 CSE Student
+- 💻 Currently learning and practicing Web Development
+- 🌱 Exploring React, Next.js, JavaScript and modern web technologies
+- 🚀 I love building projects and improving my development skills
+- 🎯 Goal: Become a skilled software/web developer
