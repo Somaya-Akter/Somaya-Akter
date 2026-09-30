@@ -83,3 +83,39 @@
     alt="Somaya Akter's GitHub Streak"
   />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Somaya-Akter/AI-Dependency-System">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Somaya-Akter&repo=AI-Dependency-System&theme=github_dark&hide_border=true"
+      alt="AI Dependency System"
+    />
+  </a>
+
+  <a href="https://github.com/Somaya-Akter/B14-A6-Fit-Log">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Somaya-Akter&repo=B14-A6-Fit-Log&theme=github_dark&hide_border=true"
+      alt="Fit Log"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Somaya-Akter/QuizBattleArena">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Somaya-Akter&repo=QuizBattleArena&theme=github_dark&hide_border=true"
+      alt="Quiz Battle Arena"
+    />
+  </a>
+
+  <a href="https://github.com/Somaya-Akter/B14-A05-DevStack">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Somaya-Akter&repo=B14-A05-DevStack&theme=github_dark&hide_border=true"
+      alt="DevStack"
+    />
+  </a>
+</p>
