@@ -17,7 +17,7 @@ Passionate about **Web Development, Programming, and building useful projects.**
 
 <hr>
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 CSE Student
 - 💻 Currently learning and practicing Web Development
@@ -25,31 +25,87 @@ Passionate about **Web Development, Programming, and building useful projects.**
 - 🚀 I love building projects and improving my development skills
 - 🎯 Goal: Become a skilled software/web developer
 
----
+<hr>
 
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,js" alt="Programming Languages" />
+  <img
+    src="https://skillicons.dev/icons?i=c,java,js"
+    alt="Programming Languages"
+  />
 </p>
 
 ### 🎨 Frontend Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="Frontend Development" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,react,nextjs"
+    alt="Frontend Development"
+  />
 </p>
 
 ### ⚙️ Backend & Runtime
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend and Runtime" />
+  <img
+    src="https://skillicons.dev/icons?i=nodejs"
+    alt="Backend and Runtime"
+  />
 </p>
 
 ### 🔧 Tools & Platforms
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" alt="Tools and Platforms" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel"
+    alt="Tools and Platforms"
+  />
 </p>
 
----
+<hr>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Somaya-Akter/AI-Dependency-System">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Somaya-Akter&repo=AI-Dependency-System&theme=github_dark&hide_border=true"
+      alt="AI Dependency System"
+      width="48%"
+    />
+  </a>
+
+  <a href="https://github.com/Somaya-Akter/B14-A6-Fit-Log">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Somaya-Akter&repo=B14-A6-Fit-Log&theme=github_dark&hide_border=true"
+      alt="Fit Log"
+      width="48%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Somaya-Akter/QuizBattleArena">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Somaya-Akter&repo=QuizBattleArena&theme=github_dark&hide_border=true"
+      alt="Quiz Battle Arena"
+      width="48%"
+    />
+  </a>
+
+  <a href="https://github.com/Somaya-Akter/B14-A05-DevStack">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Somaya-Akter&repo=B14-A05-DevStack&theme=github_dark&hide_border=true"
+      alt="DevStack"
+      width="48%"
+    />
+  </a>
+</p>
+
+<hr>
 
 ## 📊 GitHub Stats
 
@@ -69,12 +125,9 @@ Passionate about **Web Development, Programming, and building useful projects.**
     alt="Somaya Akter's Most Used Languages"
     height="170"
   />
+</p>
 
-  ---
-
----
-
----
+<hr>
 
 ## 📈 GitHub Activity Overview
 
@@ -94,43 +147,7 @@ Passionate about **Web Development, Programming, and building useful projects.**
   />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Somaya-Akter/AI-Dependency-System">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Somaya-Akter&repo=AI-Dependency-System&theme=github_dark&hide_border=true"
-      alt="AI Dependency System"
-    />
-  </a>
-
-  <a href="https://github.com/Somaya-Akter/B14-A6-Fit-Log">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Somaya-Akter&repo=B14-A6-Fit-Log&theme=github_dark&hide_border=true"
-      alt="Fit Log"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Somaya-Akter/QuizBattleArena">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Somaya-Akter&repo=QuizBattleArena&theme=github_dark&hide_border=true"
-      alt="Quiz Battle Arena"
-    />
-  </a>
-
-  <a href="https://github.com/Somaya-Akter/B14-A05-DevStack">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Somaya-Akter&repo=B14-A05-DevStack&theme=github_dark&hide_border=true"
-      alt="DevStack"
-    />
-  </a>
-</p>
-
----
+<hr>
 
 ## 🤝 Connect With Me
 
