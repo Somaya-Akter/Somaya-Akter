@@ -64,14 +64,17 @@
 
 ---
 
-## 📈 Contribution Activity
+---
+
+## 📈 GitHub Activity Overview
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Somaya-Akter&theme=github"
-    alt="Somaya Akter's GitHub Activity Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Somaya-Akter&theme=github_dark"
+    alt="Somaya Akter's GitHub Activity Overview"
   />
 </p>
+
 ## 🔥 GitHub Streak
 
 <p align="center">
