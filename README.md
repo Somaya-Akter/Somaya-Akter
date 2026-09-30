@@ -38,3 +38,34 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" alt="Tools and Platforms" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Somaya-Akter&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="Somaya Akter's GitHub Stats"
+    height="170"
+  />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somaya-Akter&layout=compact&theme=github_dark&hide_border=true"
+    alt="Somaya Akter's Most Used Languages"
+    height="170"
+  />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Somaya-Akter&theme=github-dark-blue&hide_border=true"
+    alt="Somaya Akter's GitHub Streak"
+  />
+</p>
