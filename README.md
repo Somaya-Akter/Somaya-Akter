@@ -31,6 +31,16 @@ Passionate about **Web Development, Programming, and building useful projects.**
 
 <hr>
 
+## 🎯 Current Activities & Focus
+
+- 🌱 Currently learning React, Next.js, JavaScript, and Node.js
+- 💻 Building practical web development projects
+- 🧠 Improving problem-solving and programming skills
+- 📚 Exploring modern web technologies and best development practices
+- 🚀 Focusing on consistent learning and project-based growth
+
+<hr>
+
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
